@@ -1,0 +1,26 @@
+name: SurvivalGames
+author: Dinokiller
+api: [1.0.0]
+version: 1.0
+load: POSTWORLD
+main: sg\Main
+
+permissions:
+    sg:
+        default: op
+        description: "All features for SurvivalGames."
+        children:
+            sg.arena:
+                default: op
+                description: "Do anything with/in the arena."
+                sg.arena.leave:
+                    default: op
+                    description: "Leave the arena."
+            sg.lobby:
+                default: op
+                description: "Do anything with/in the lobby."
+                children:
+                    sg.lobby.leave:
+                        default: op
+                        description: "Leave the lobby."
+                                            
