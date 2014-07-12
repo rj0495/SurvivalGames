@@ -3,7 +3,7 @@ SurvivalGames
 
 A minigane plugin mainly developed by Dinokiller (DinoKill on GitHub).
 Player's first go into the lobby where they wait for other players and vote for a map to be used for the game.
-Once the game begins, will then spawn around chests each containing useful items.
+Once the game begins, the players will then spawn around chests each containing useful items.
 Using the resources you have, you can fight with other people within the arena.
 If you are killed you have the option of ethier leaving or spectating the game.
 When the amount of alive players gets low enough or enough time passes, deathmatch will commence!
