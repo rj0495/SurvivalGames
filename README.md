@@ -1,7 +1,7 @@
 SurvivalGames
 =============
 
-A minigane plugin mainly developed by [@Dinokiller](https://github.com/DinoKill).
+A minigane plugin mainly developed by @DinoKill.
 Player's first go into the lobby where they wait for other players and vote for a map to be used for the game.
 Once the game begins, the players will then spawn around chests each containing useful items.
 Using the resources you have, you can fight with other people within the arena.
